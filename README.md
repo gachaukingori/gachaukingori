@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gachaukingori
 - 👀 I’m interested in web development, mobile development and data science
 - 🌱 I’m currently learning typescript, node js and react native
+- Knowledgeable in JAVA, PHP, RDBMS, Linux Shell Scripting, Mobile development and Web development 
 - 💞️ I’m looking to collaborate on mobile apps with REST APIS
 - 📫 How to reach me  victor-dot-kingori93-at-gmail-dot-com
 
