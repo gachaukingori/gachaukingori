@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, mobile development, open source contribution
 - 🌱 I’m currently learning typescript, node js and react.
 -  I'm Knowledgeable in JAVA, Typescript, Relational Database, Linux Shell Scripting, Mobile development and Web development 
-- 💞️ I’m looking to collaborate on mobile application and web development
+- 💞️ I’m looking to collaborate on backend development. 
 - 📫 How to reach me  victor-dot-kingori93-at-gmail-dot-com
 
 <!---
