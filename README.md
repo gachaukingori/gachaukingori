@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gachaukingori
 - 👀 I’m interested in web development, mobile development, open source contribution
-- 🌱 I’m currently learning typescript, node js and react.
+- 🌱 I’m currently learning testing in springboot.
 -  I'm Knowledgeable in JAVA, Typescript, Relational Databases, Mobile and Web development 
 - 💞️ I’m looking to collaborate on backend development. 
 - 📫 How to reach me  victor-dot-kingori93-at-gmail-dot-com
