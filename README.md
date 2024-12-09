@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gachaukingori
+- 👋 Hi, I’m @gachaukingori  from 🇰🇪
 - 👀 I’m interested in web development, mobile development, open source contribution
 - 🌱 I’m currently learning unit testing in springboot.
--  I'm Knowledgeable in JAVA, Typescript, Relational Databases, Mobile and Web development 
+- 🔆 I'm knowledgeable in Java Springboot, Ruby on Rails, React JS, C#. 
 - 💞️ I’m looking to collaborate on backend development. 
 
 <!---
