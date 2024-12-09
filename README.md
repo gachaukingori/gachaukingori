@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gachaukingori  from 🇰🇪
 - 👀 I’m interested in web development, mobile development, open source contribution
-- 🌱 I’m currently learning unit testing in springboot.
+- 🌱 I’m currently learning .NET framework.
 - 🔆 I'm knowledgeable in Java Springboot, Ruby on Rails, React JS, C#. 
 - 💞️ I’m looking to collaborate on backend development. 
 
